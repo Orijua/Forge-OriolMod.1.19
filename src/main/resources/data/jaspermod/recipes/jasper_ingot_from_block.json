@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jaspermod:jasper_block"
+    }
+  ],
+  "result": {
+    "item" : "jaspermod:jasper_ingot",
+    "count": 9
+  }
+}

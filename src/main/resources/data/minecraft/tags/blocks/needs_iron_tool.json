@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "jaspermod:jasper_ore",
+    "jaspermod:jasper_block"
+  ]
+}

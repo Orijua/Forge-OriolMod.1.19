@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.6,
+  "group": "jasper_ingot",
+  "ingredient": {
+    "item": "jaspermod:raw_jasper"
+  },
+  "result": "jaspermod:jasper_ingot"
+}
