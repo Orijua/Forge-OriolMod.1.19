@@ -2,6 +2,8 @@
 
  "item.jaspermod.jasper_ingot": "Jasper Ingot",
  "item.jaspermod.raw_jasper": "Raw Jasper",
+ "block.jaspermod.jasper_block": "Block of Jasper",
+ "block.jaspermod.jasper_ore": "Jasper Ore",
 
  "itemGroup.jaspermod.jaspertab": "Jasper"
 }
